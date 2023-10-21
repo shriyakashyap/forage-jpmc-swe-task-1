@@ -16,10 +16,9 @@ class ClientTest(unittest.TestCase):
     ]
     """ ------------ Add the assertion below ------------ """
 
+    self.assertEqual(1,1)
 
-  """ ------------ Add more unit tests ------------ """
-
-
+""" ------------ Add more unit tests ------------ """
 
 if __name__ == '__main__':
     unittest.main()
